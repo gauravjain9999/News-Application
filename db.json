@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Ackermann claims 'huge' wicket of Babar",
+      "description": "Pakistan batter Babar Azam is dismissed for five by Netherlands' Colin Ackermann in the 2023 Cricket World Cup in Hyderabad.",
+      "url": "http://www.bbc.co.uk/sport/av/cricket/67027679",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/81FA/production/_131347233_p0gjv7kj.jpg",
+      "publishedAt": "2023-10-06T10:07:20.7387074Z",
+      "content": "Netherlands' Colin Ackermann claims the \"huge\" wicket of Babar Azam for five to leave Pakistan on 34-2 in their Cricket World Cup group match in Hyderabad.\r\nFOLLOW LIVE: Pakistan v Netherlands\r\nAvail… [+21 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "World Cup: Pakistan bat first against Netherlands - clips, radio & text",
+      "description": "Follow live text, in-play video clips and radio commentary as Pakistan play Netherlands in the Men's Cricket World Cup 2023.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/66854208",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "publishedAt": "2023-10-06T08:37:18.7068316Z",
+      "content": "Pakistan: Imam-ul-Haq, Fakhar Zaman, Babar Azam (c), Mohammad Rizwan (wk), Saud Shakeel, Iftikhar Ahmed, Shadab Khan, Mohammad Nawaz, Hasan Ali, Shaheen Afridi, Haris Rauf.\r\nNetherlands: Vikramjit Si… [+176 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Hafsa Adil",
+      "title": "Who is Rachin Ravindra, New Zealand’s Cricket World Cup star?",
+      "description": "Ravindra’s story came full circle as his cricket-mad parents watched him make a World Cup 100 for New Zealand in India.",
+      "url": "http://www.aljazeera.com/sports/2023/10/6/who-is-rachin-ravindra-new-zealands-cricket-world-cup-star",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-05T144718Z_795532027_UP1EJA5152SIM_RTRMADP_3_CRICKET-WORLDCUP-ENG-NZL-1696571865.png?resize=1200%2C630",
+      "publishedAt": "2023-10-06T07:58:55Z",
+      "content": "Barely two hours into his first Cricket World Cup match, Rachin Ravindra was thrown into the limelight by the New Zealand captain and asked to bowl against the tournaments defending champions at the … [+3848 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "'I've got no confidence' - Can Broad play baseball?",
+      "description": "Watch ex-England cricketer Stuart Broad try his hand at baseball, with the help of MLB great Chase Utley, before the MLB Saturday Showdown live on the BBC.",
+      "url": "http://www.bbc.co.uk/sport/av/baseball/67011568",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/352D/production/_131331631_p0gjdylr.jpg",
+      "publishedAt": "2023-10-06T05:52:17.0664281Z",
+      "content": "Watch retired England cricketer Stuart Broad try his hand at baseball, with the help of MLB great Chase Utley, a six-time All-Star, before this weekend's MLB Saturday Showdown live on the BBC.\r\nWatch… [+169 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera Staff",
+      "title": "‘Where’s the crowd?’: Fans deride empty stadium at Cricket World Cup opener",
+      "description": "Cricket fans slam organisers as the ICC Cricket World Cup gets underway amidst thousands of empty seats in Ahmedabad.",
+      "url": "http://www.aljazeera.com/sports/2023/10/5/where-is-the-crowd-fans-deride-empty-stadium-at-world-cup-opening-match",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-05T125507Z_443924324_UP1EJA50ZVTEU_RTRMADP_3_CRICKET-WORLDCUP-ENG-NZL-1696512421.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-10-05T15:57:41Z",
+      "content": "It was billed as the most anticipated cricket event of the year, held in the sports biggest stadium globally, in a country that is known to worship the game.\r\nBut when the ICC Cricket World Cup 2023 … [+5848 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
