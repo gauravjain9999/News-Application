@@ -1,1 +1,1 @@
-1. This is class based Component.
+1. This is functional based Component.
